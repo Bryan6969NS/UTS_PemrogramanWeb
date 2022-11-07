@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poor+Story&family=Roboto:wght@300&display=swap');
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+body * {
+    border: 1px;
+    padding: 5px;
+    font-weight: bold;
+  }
+  
+  body {
+    background-attachment: fixed;
+    background-size: 100%;
+    background-position: center;
+  }
